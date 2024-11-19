@@ -7,6 +7,10 @@ This project investigates the relationship between model complexity, regularizat
 
 Key findings include the trade-offs between model complexity and generalization, and the effectiveness of regularization techniques in improving model robustness.
 
+- Author: **Kaushal Bhavsar**
+- LinkedIn : https://www.linkedin.com/in/kb07/
+- Github: Mister-kaushalam
+- Email - Kaushalbhavsar0007@gmail.com
 
 ## Methodology
 
