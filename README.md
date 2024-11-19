@@ -3,7 +3,7 @@
 # Impact of Model Complexity and Regularization on Model Generalization
 
 ## Abstract
-This project investigates the relationship between model complexity, regularization, and generalization capabilities using both classification and regression tasks. The experiments explore the impact of polynomial data transformations and regularization techniques on \(E_{in}\) and \(E_{out}\). Insights are derived through structured experimentation and visualizations.
+This project investigates the relationship between model complexity, regularization, and generalization capabilities using classification tasks. The experiments explore the impact of polynomial data transformations and regularization techniques on \(E_{in}\) and \(E_{out}\). Insights are derived through structured experimentation and visualizations.
 
 Key findings include the trade-offs between model complexity and generalization, and the effectiveness of regularization techniques in improving model robustness.
 
